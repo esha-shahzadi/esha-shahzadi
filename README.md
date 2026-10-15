@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Esha Khan 👋
 
-<!--
-**esha-shahzadi/esha-shahzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science student at the University of Lahore , passionate about Python, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, C++, HTML
+- **Libraries:** NumPy, Pandas
+- **Learning:** Machine Learning basics, AI projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **student-performance-Numpy:** Analyzing student performance using NumPy
+- **linear-regression-study-hours:** Linear regression model on study hours data
+- **scientific-calculator-tkinter:** GUI scientific calculator in Python
+- **snake-game-turtle:** Classic Snake game using Python turtle
+- **saved-Wifi-profiles-viewer:** Lists saved Wi-Fi profiles using subprocess
+
+## 🌱 Currently
+- Learning Machine Learning and building more AI projects
+- Open to internships and learning opportunities
+
+## 📫 Contact
+- Email: eshuu4312@gmail.com
+- Location: Lahore, Pakistan
